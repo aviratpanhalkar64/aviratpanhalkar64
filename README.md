@@ -1,19 +1,20 @@
-### Hi there 👋
+🌍 Innovative Geospatial Data Scientist
 
-<!--
-**aviratpanhalkar64/aviratpanhalkar64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Avirat Panhalkar, a dedicated Geospatial Data Scientist specializing in geospatial modeling, backend development, and build management.
 
-Here are some ideas to get you started:
+🚀 Professional Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-INSTRUCTION -
-1. For the source code go through the js folder
-2. For the project preview go through to the index.html file
+I've contributed to smart city initiatives in environmental resource management, location intelligence, and disaster management. My projects include work for Microsoft's AI for Earth and other Fortune 100 companies.
+
+📈 Lifelong Learner and Versatile Developer
+
+I am always eager to explore new technologies and methodologies. My approach balances perfectionism with pragmatism, ensuring innovative and practical solutions. I value teamwork and clean code principles.
+
+🤖 AI Product Management Aspirations
+
+I'm expanding my skills into AI product management, blending technical expertise with strategic vision to create impactful AI-driven products.
+
+🔗 Let's Connect
+
+Explore my repositories to see my work, and feel free to connect for collaboration or discussions on geospatial and AI topics!
+
