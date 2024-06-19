@@ -6,8 +6,6 @@ Hello! I'm Avirat Panhalkar, a dedicated Geospatial Data Scientist specializing 
 
 I've contributed to smart city initiatives in environmental resource management, location intelligence, and disaster management. My projects include work for Microsoft's AI for Earth and other Fortune 100 companies.
 
-📈 Lifelong Learner and Versatile Developer
-
 I am always eager to explore new technologies and methodologies. My approach balances perfectionism with pragmatism, ensuring innovative and practical solutions. I value teamwork and clean code principles.
 
 🤖 AI Product Management Aspirations
