@@ -1,6 +1,6 @@
 Welcome to My GitHub!
 
-👋 Hi, I'm Avirat S., a Geospatial Data Scientist passionate about leveraging spatial data for predictive analytics and risk assessment.
+👋 Hi, I'm Avirat, a Data Scientist passionate about leveraging spatial data for predictive analytics and risk assessment.
 
 🔍 What You'll Find Here:
 Geospatial Data Analysis: GIS, remote sensing, spatial statistics.
